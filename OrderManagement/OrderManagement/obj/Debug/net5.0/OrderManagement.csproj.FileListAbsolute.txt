@@ -431,3 +431,5 @@ C:\Users\lucas\Studies\c#\OrderManagement\OrderManagement\OrderManagement\bin\De
 C:\Users\lucas\Studies\c#\OrderManagement\OrderManagement\OrderManagement\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\lucas\Studies\c#\OrderManagement\OrderManagement\OrderManagement\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\lucas\Studies\c#\OrderManagement\OrderManagement\OrderManagement\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\lucas\Studies\c#\OrderManagement\OrderManagement\OrderManagement\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\lucas\Studies\c#\OrderManagement\OrderManagement\OrderManagement\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
