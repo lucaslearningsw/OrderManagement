@@ -15,5 +15,7 @@ namespace OrderManagement.Data
         }
 
         public DbSet<Category> Category { set; get; }
+        
+        public DbSet<ApplicationType> ApplicationType { get; set; }
     }
 }
